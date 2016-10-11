@@ -1,0 +1,4 @@
+jupyter
+nltk
+more_itertools
+matplotlib
